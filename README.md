@@ -8,7 +8,7 @@
 ## 📋 Tabla de Contenidos
 1. [Planteamiento del Problema y Justificación](#1-planteamiento-del-problema-y-justificación)
 2. [Taxonomía Operativa y Fusión de Clases](#2-taxonomía-operativa-y-fusión-de-datasets)
-3. [Análisis Exploratorio de Datos (EDA) y Auditoría](#3-análisis-exploratorio-de-datos-y-auditoría)
+3. [Análisis Exploratorio de Datos y Auditoría](#3-análisis-exploratorio-de-datos-y-auditoría)
 4. [Ingeniería de Señales y Estrategia contra Data Leakage](#4-ingeniería-de-señales-y-estrategia-contra-data-leakage)
 5. [Arquitectura Base del Modelo y Referentes Teóricos](#5-arquitectura-base-del-modelo-y-referentes-teóricos)
 6. [Conclusiones Preliminares y Próximos Pasos](#6-conclusiones-preliminares-y-próximos-pasos)
