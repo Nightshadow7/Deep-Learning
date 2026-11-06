@@ -1,4 +1,4 @@
-# 🛡️ Sistema Inteligente de Detección Acústica Táctica
+# 🛡️ Sistema de detección y generación de alertas tempranas ante incidentes balísticos y siniestros viales en entornos urbanos para la respuesta y despliegue eficaz de personal policíal y médico 
 
 > **Curso:** Aprendizaje Profundo (Deep Learning)  
 > **Perfil:** Ingeniería en Ciencia de Datos   
