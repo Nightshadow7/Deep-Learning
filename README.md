@@ -1,4 +1,4 @@
-# 🛡️ Sistema Inteligente de Detección Acústica Táctica y Monitoreo de Infraestructura Crítica
+# 🛡️ Sistema Inteligente de Detección Acústica Táctica
 
 > **Curso:** Aprendizaje Profundo (Deep Learning)  
 > **Perfil:** Ingeniería en Ciencia de Datos   
