@@ -48,12 +48,12 @@ El proyecto se fundamenta en la fusión de dos datasets estándar de la industri
 - **Desbalance y Enriquecimiento de Clases:** En UrbanSound8K, la clase crítica `gun_shot` posee únicamente 374 muestras, mientras que la mayoría superan los 900 registros. La integración con ESC-50 permite inyectar nuevas muestras tácticas (siniestros y cristales rotos) para robustecer el modelo, aunque el desbalance subyacente justifica el uso posterior de funciones de pérdida ponderadas (`Focal Loss`).
 - **Variabilidad de Duración y Formato:** Mientras que ESC-50 garantiza audios estandarizados de 5 segundos de duración, UrbanSound8K presenta una alta variabilidad temporal, donde las detonaciones ocurren en lapsos transitorios inferiores a 1.5 segundos.
 - **Metadato de Prominencia (`salience`):** UrbanSound8K distingue entre sonidos en primer plano (`salience = 1`) y de fondo (`salience = 2`). Al fusionar los datos, es imperativo imputar o estandarizar este comportamiento para las pistas provenientes de ESC-50.
-
+ 
 > **Evidencia Gráfica del EDA:**  
-> *(Los gráficos generados con el script exploratorio conjunto se encuentran alojados en la carpeta `/outputs/`)*  
-> * ![Gráfico 1: Cantidad de Audios y Aporte ESC-50](outputs/grafico_1_cantidad_sonidos.png)  
-> * ![Gráfico 2: Duración de Sonidos Combinados](outputs/grafico_2_duracion_sonidos.png)  
-> * ![Gráfico 3: Cerca vs Lejos](outputs/grafico_3_cerca_vs_lejos.png)
+> *(Los gráficos generados con el script exploratorio se encuentran en la raíz del repositorio)*  
+> * ![Gráfico 1: Cantidad de Audios y Aporte ESC-50](grafico_1_cantidad_sonidos.png)  
+> * ![Gráfico 2: Duración de Sonidos Combinados](grafico_2_duracion_sonidos.png)  
+> * ![Gráfico 3: Cerca vs Lejos](grafico_3_cerca_vs_lejos.png)
 
 ---
 
