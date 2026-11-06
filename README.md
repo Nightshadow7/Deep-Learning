@@ -41,7 +41,7 @@ Para optimizar el rendimiento del modelo, el espectro acústico se reestructura 
 
 ---
 
-## 3. Análisis Exploratorio de Datos (EDA) y Auditoría (Data Fusion)
+## 3. Análisis Exploratorio de Datos y Auditoría
 
 El proyecto se fundamenta en la fusión de dos datasets estándar de la industria acústica: **UrbanSound8K** (8,732 extractos de hasta 4 segundos) y **ESC-50** (2,000 audios exactos de 5 segundos). Del análisis exploratorio conjunto se desprenden los siguientes retos para el diseño experimental:
 
